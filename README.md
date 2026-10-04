@@ -30,6 +30,7 @@ How can the coffee shop leverage its sales data to identify trends, optimize ope
 - Month-on-Month Quantity Growth
 ## 5. Dashboard 
 Visualize various aspects of coffee sales data to gain insights into and understand key trends. 
+![Dashboard Overview](screenshots/Dashboard%20Overview.png)
 ## 6. Key Insight
 - Highest sales: June (166,485).
 
