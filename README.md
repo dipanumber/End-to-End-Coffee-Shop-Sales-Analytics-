@@ -51,6 +51,5 @@ coffee-shop-sales-analytics/
 ├── sql/
 ├── excel/
 ├── powerbi/
-├── screenshots/
 └── report/
 
